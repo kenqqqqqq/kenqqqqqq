@@ -1,15 +1,15 @@
 <h1>Hi, I'm Mark 👋</h1>
-<p>I'm currently working as Application Support Engineer and I am interest in IT Infrastructure, Networking and Cybersecurity.</p>
+<p>I'm currently working as Application Support Engineer and I am interest in IT Infrastructure, Network and Security.</p>
   
 <h3>👤 About me</h3>
   <ul>
-    <li>🔭 Currenly working on: Active Directory Home Lab</li>
-    <li>📚 Currently preparing on: CompTIA A+ 1101</li>
+    <li>🔭 Currenly working on: Active Directory Home/Virtual Lab</li>
+    <li>📚 Currently preparing on: Azure AZ-104</li>
     <li>📫 How to reach me: yuson.markken@gmail.com</li>
   </ul>
 
 <h3>🤝 Connect with me</h3>
-<a href="https://kenqqqqqq.github.io/my-portfolio/"><img align="left" src="https://github.com/kenqqqqqq/kenqqqqqq/assets/33195995/ce49c8a9-d7ec-41b7-a8f9-b5511f226e4f" alt="icon" width="50px"/></a>
+<a href="https://kenqqqqqq.github.io/mktech/"><img align="left" src="https://github.com/kenqqqqqq/kenqqqqqq/assets/33195995/ce49c8a9-d7ec-41b7-a8f9-b5511f226e4f" alt="icon" width="50px"/></a>
 <a href="https://ph.linkedin.com/in/mark-yuson/"><img align="left" src="https://github.com/kenqqqqqq/kenqqqqqq/assets/33195995/23ed5361-0d10-4c7e-a1bb-b673f0f0cf5a" alt="icon" width="50px"/></a>
 <a href="https://www.instagram.com/kenqqqqqq/"><img align="left" src="https://github.com/kenqqqqqq/kenqqqqqq/assets/33195995/37578acf-1db9-42dd-a5cd-49f71254d52b" alt="icon" width="50px"/></a>
 
